@@ -1,0 +1,5 @@
+batch_size: 16
+mlp_hidden: 71
+conv_dim: 25
+epochs: 20
+lr: 0.0001
